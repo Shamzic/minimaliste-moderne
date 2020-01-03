@@ -1,0 +1,20 @@
+.menu {
+  list-style-type: none;
+  font-family: 'Comfortaa', cursive;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.menu li {
+  padding: 15px;
+  border-radius: 12px;
+  background-color: white;
+}
+
+.menu li:hover {
+  background-color: rgb(214, 214, 214);
+}
+
+.menu .linker {
+
+}

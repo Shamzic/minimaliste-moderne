@@ -1,0 +1,18 @@
+.header {
+  background-image: url(../images/white_landscape.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  margin-bottom: 0;
+}
+
+.header .title {
+  padding-top: 15px;
+  padding-left: 15px;
+  margin-top: 0;
+}
+
+.header .linker {
+  text-decoration: none;
+  color: black;
+}
